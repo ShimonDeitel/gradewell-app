@@ -1,0 +1,29 @@
+{
+  "identifier": "GradewellStoreKit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "11000000000001",
+      "localizations": [
+        {
+          "description": "Weighted GPA across multiple courses",
+          "displayName": "Pro Unlock",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.gradewell.pro_unlock",
+      "referenceName": "Pro Unlock",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
